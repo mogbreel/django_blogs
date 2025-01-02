@@ -1,0 +1,22 @@
+[
+    {
+        "title": "The New Feature in Django Framework",
+        "content": "My first updated post !\r\n\r\nThis is exciting!",
+        "user_id": 1
+    },
+    {
+        "title": "Top Five Programming Languages",
+        "content": "My first updated post !\r\n\r\nThis is exciting!",
+        "user_id": 2
+    },
+    {
+        "title": "Visual Code Tips and Tricks",
+        "content": "My first updated post !\r\n\r\nThis is exciting!",
+        "user_id": 1
+    },
+    {
+        "title": "Last Updating Library in Flask",
+        "content": "My first updated post !\r\n\r\nThis is exciting!",
+        "user_id": 3
+    }
+]

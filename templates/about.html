@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+{% block title %} About {% endblock title %}
+{% block content %}
+        <article class="media content-section">
+                <div class="media-body">
+                <div class="article-metadata">
+                        <a class="mr-2" href="/">About Us</a>
+                        <small class="text-muted">{{ post.date_posted |date:"F d, Y"}}</small>
+                </div>
+                <hr>
+                <h4 class="article-title">What is blog website ?</h4>
+                <p class="article-content">A blog website is a type of regularly updated website where individuals or organizations write about topics that interest them. Blogs can focus on specific subjects, such as politics, technology, or personal experiences, or they can cover a wide range of topics. Essentially, a blog serves as an online platform for sharing thoughts, insights, and information with an audience1. If you’re interested in starting your own blog, there are several platforms.</p>
+                </div>
+        </article>
+{% endblock content%}
+
